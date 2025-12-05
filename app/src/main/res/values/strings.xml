@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigationNewsBar</string>
+    <string name="breaking_news_txt">Breaking news</string>
+    <string name="saved_news_txt">Saved news</string>
+    <string name="search_news_txt">Search news</string>
+    <string name="article_txt">Article</string>
+</resources>
